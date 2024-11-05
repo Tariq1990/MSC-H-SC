@@ -1,2 +1,2 @@
 # MSC H&SC
- Data Science in Health and Scoial Care
+MSc in Data Science in Health and Scoial Care at the University of Edinburgh Scotland.
